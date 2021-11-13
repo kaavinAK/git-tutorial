@@ -1,2 +1,2 @@
 this is bash shell file
-full form of bash is born again shell  bro
+full  form of bash is what  bro
